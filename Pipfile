@@ -5,13 +5,12 @@ name = "pypi"
 
 [packages]
 langchain = "*"
-pinecone-client = "*"
+pypdf = "*"
 openai = "*"
-python-dotenv = "*"
 tiktoken = "*"
+faiss-cpu = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.12"
-python_full_version = "3.12.0"
