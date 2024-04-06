@@ -5,13 +5,10 @@ name = "pypi"
 
 [packages]
 langchain = "*"
-black = "*"
+pinecone-client = "*"
+openai = "*"
 python-dotenv = "*"
-langchainhub = "*"
-google-search-results = "*"
-tweepy = "*"
-flask = "*"
-pydantic = "==2.5.3"
+tiktoken = "*"
 
 [dev-packages]
 
