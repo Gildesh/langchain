@@ -44,10 +44,10 @@
                     success: function (response) {
                         $('#profile-pic').attr('src', response.picture_url); // Update the profile picture src attribute
                         $('#profile-pic').show(); // Show the profile picture
-                        $('#summary-and-facts').text(response.summary_and_facts.summary);
-                        $('#interests').html('<ul>' + response.summary_and_facts.facts.map(fact => '<li>' + fact + '</li>').join('') + '</ul>');
-                        $('#ice-breakers').html('<ul>' + response.ice_breakers.ice_breakers.map(ice_breaker => '<li>' + ice_breaker + '</li>').join('') + '</ul>');
-                        $('#topics-of-interest').html('<ul>' + response.interests.ice_breakers.map(topic => '<li>' + topic + '</li>').join('') + '</ul>');
+                        $('#summary-and-facts').text(response.summary);
+                        $('#interests').html('<ul>' + response.facts.map(fact => '<li>' + fact + '</li>').join('') + '</ul>');
+                        $('#ice-breakers').html('<ul>' + response.ice_breakers.map(ice_breaker => '<li>' + ice_breaker + '</li>').join('') + '</ul>');
+                        $('#topics-of-interest').html('<ul>' + response.interests.map(topic => '<li>' + topic + '</li>').join('') + '</ul>');
                     },
                     error: function (error) {
                         console.log(error);
