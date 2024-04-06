@@ -4,17 +4,16 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-langchain = "*"
-black = "*"
 python-dotenv = "*"
-langchainhub = "*"
-google-search-results = "*"
-tweepy = "*"
-flask = "*"
-pydantic = "==2.5.3"
+langchain = "*"
+langchain-experimental = "*"
+openai = "*"
+qrcode = "*"
+pandas = "*"
+tabulate = "*"
+langchain-openai = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.12"
-python_full_version = "3.12.0"
