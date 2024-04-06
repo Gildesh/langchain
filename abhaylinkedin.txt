@@ -1,0 +1,329 @@
+{
+    "public_identifier": "abhay-saini-8147498a",
+    "profile_pic_url": "None",
+    "background_cover_image_url": "None",
+    "first_name": "abhay",
+    "last_name": "saini",
+    "full_name": "abhay saini",
+    "follower_count": "None",
+    "occupation": "senior consultant",
+    "headline": "None",
+    "summary": "None",
+    "country": "IN",
+    "country_full_name": "india",
+    "city": "bengaluru",
+    "state": "karnataka",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2019
+            },
+            "ends_at": "None",
+            "company": "fractal analytics",
+            "company_linkedin_profile_url": "None",
+            "title": "senior consultant",
+            "description": "None",
+            "location": "bengaluru, karnataka, india",
+            "logo_url": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2012
+            },
+            "company": "aricent",
+            "company_linkedin_profile_url": "None",
+            "title": "intern",
+            "description": "None",
+            "location": "gurgaon, haryana, india",
+            "logo_url": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "company": "gr8logics",
+            "company_linkedin_profile_url": "None",
+            "title": "intern web developer",
+            "description": "None",
+            "location": "None",
+            "logo_url": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": "None",
+            "company": "state street",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/state-street",
+            "title": "pricing analyst",
+            "description": "None",
+            "location": "None",
+            "logo_url": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2018
+            },
+            "company": "greenwich investment management",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/greenwich-high-yield",
+            "title": "investment analyst",
+            "description": "None",
+            "location": "None",
+            "logo_url": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2016
+            },
+            "company": "rbs business services pvt ltd",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/royal-bank-of-scotland-fina..",
+            "title": "assistant manager",
+            "description": "None",
+            "location": "delhi, delhi, india",
+            "logo_url": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2015
+            },
+            "company": "mu sigma inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mu-sigma",
+            "title": "decision scientist",
+            "description": "None",
+            "location": "bangalore, karnataka, india",
+            "logo_url": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2015
+            },
+            "company": "mu sigma inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/mu-sigma",
+            "title": "trainee decision scientist",
+            "description": "None",
+            "location": "bengaluru, karnataka, india",
+            "logo_url": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2011
+            },
+            "company": "seasia consulting",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/seasia-consulting",
+            "title": "intern",
+            "description": "None",
+            "location": "None",
+            "logo_url": "None"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "field_of_study": "None",
+            "degree_name": "None",
+            "school": "model school",
+            "school_linkedin_profile_url": "None",
+            "description": "None",
+            "logo_url": "None",
+            "grade": "None",
+            "activities_and_societies": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "field_of_study": "None",
+            "degree_name": "master of business administration,masters",
+            "school": "boston college",
+            "school_linkedin_profile_url": "None",
+            "description": "None",
+            "logo_url": "None",
+            "grade": "None",
+            "activities_and_societies": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "field_of_study": "None",
+            "degree_name": "bachelors,bachelor of technology",
+            "school": "delhi technological university",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/dwd-dce",
+            "description": "Activities and Societies: CSI",
+            "logo_url": "None",
+            "grade": "None",
+            "activities_and_societies": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "field_of_study": "None",
+            "degree_name": "None",
+            "school": "ahlcon international school",
+            "school_linkedin_profile_url": "None",
+            "description": "Activities and Societies: Quizzer",
+            "logo_url": "None",
+            "grade": "None",
+            "activities_and_societies": "None"
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [
+        "Sql",
+        "R",
+        "Microsoft Excel",
+        "Business Analysis",
+        "Linear Regression",
+        "Analysis",
+        "Teradata",
+        "C++",
+        "Php",
+        "Tableau",
+        "Html",
+        "Css",
+        "Powerpoint",
+        "Photoshop",
+        "Predictive Analytics",
+        "Kpi Dashboards",
+        "Reporting and Analysis",
+        "Logistic Regression",
+        "Inventory Optimization",
+        "Sas",
+        "C",
+        "Microsoft Office",
+        "Data Analysis",
+        "Analytics",
+        "Java",
+        "Analytical Skills",
+        "Python",
+        "Pandas"
+    ],
+    "inferred_salary": {
+        "min": "None",
+        "max": 20000
+    },
+    "gender": "male",
+    "birth_date": "None",
+    "industry": "management consulting",
+    "extra": {
+        "github_profile_id": "None",
+        "twitter_profile_id": "None",
+        "facebook_profile_id": "facebook.com/abhay.saini.121"
+    },
+    "interests": [
+        "ancient historical anthropology",
+        "gaming",
+        "military history",
+        "reading non fiction",
+        "speculating about geo politics",
+        "traveling new places",
+        "writing fantasy stories"
+    ],
+    "personal_emails": [
+        "abhay.saini@fractalanalytics.com",
+        "abhay.saini@rbs.com"
+    ],
+    "personal_numbers": [
+        "+16176469017"
+    ]
+}
