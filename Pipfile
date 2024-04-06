@@ -5,16 +5,12 @@ name = "pypi"
 
 [packages]
 langchain = "*"
-black = "*"
-python-dotenv = "*"
-langchainhub = "*"
-google-search-results = "*"
-tweepy = "*"
-flask = "*"
-pydantic = "==2.5.3"
+pypdf = "*"
+openai = "*"
+tiktoken = "*"
+faiss-cpu = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.12"
-python_full_version = "3.12.0"
